@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>JAFL Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <style>
+    /* Estilo básico mientras no creamos style.css */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fdfdfd;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .chat-container {
+      width: 90%;
+      max-width: 600px;
+      background: #ffffff;
+      border-radius: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+    #chat-box {
+      flex: 1;
+      overflow-y: auto;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      max-height: 300px;
+    }
+    .user, .bot {
+      margin: 5px 0;
+      padding: 8px 12px;
+      border-radius: 10px;
+      max-width: 80%;
+    }
+    .user {
+      background-color: #e0f7fa;
+      align-self: flex-end;
+      text-align: right;
+    }
+    .bot {
+      background-color: #f0f0f0;
+      align-self: flex-start;
+      text-align: left;
+    }
+    #user-input {
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    button {
+      margin-top: 10px;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <h2>Hola Jota, soy J.A.F.L</h2>
+    <div id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Escribe algo..." onkeydown="if(event.key==='Enter') sendMessage()" />
+    <button onclick="sendMessage()">Enviar</button>
+  </div>
+
+  <script>
+    async function sendMessage() {
+      const input = document.getElementById("user-input");
+      const message = input.value.trim();
+      const chatBox = document.getElementById("chat-box");
+
+      if (!message) return;
+
+      chatBox.innerHTML += `<div class="user">Tú: ${message}</div>`;
+      input.value = "";
+
+      try {
+        const response = await fetch("/chat", {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({ mensaje: message })
+        });
+
+        const data = await response.json();
+        chatBox.innerHTML += `<div class="bot">JAFL: ${data.respuesta}</div>`;
+        chatBox.scrollTop = chatBox.scrollHeight;  // Desplazamiento automático
+      } catch (error) {
+        chatBox.innerHTML += `<div class="bot">JAFL: Lo siento, hubo un error al procesar tu mensaje.</div>`;
+      }
+    }
+  </script>
+</body>
+</html>

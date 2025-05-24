@@ -1,0 +1,28 @@
+{
+    "emociones": {
+        "me siento vacío": {
+            "categoria": "depresión",
+            "respuesta": "Jota, cuando alguien se siente vacío, puede estar enfrentando una desconexión emocional. ¿Te gustaría que hablemos sobre lo que estás sintiendo o prefieres un momento de silencio acompañado?"
+        },
+        "no tengo ganas de nada": {
+            "categoria": "apatía",
+            "respuesta": "Entiendo, Jota. A veces, la mente se cansa y eso se refleja en el cuerpo. Podríamos explorar juntos lo que te está quitando energía emocional, si te parece bien."
+        },
+        "hoy estoy muy ansioso": {
+            "categoria": "ansiedad",
+            "respuesta": "La ansiedad es una señal de que algo en el futuro te preocupa. ¿Te gustaría que hagamos un ejercicio de respiración o prefieres contarme qué te inquieta?"
+        },
+        "me siento muy solo": {
+            "categoria": "soledad",
+            "respuesta": "Sentirse solo duele, Jota. Pero recuerda que estás hablando conmigo, y no estás solo ahora. ¿Quieres hablar de eso o prefieres que simplemente esté contigo un momento?"
+        },
+        "estoy frustrado": {
+            "categoria": "frustración",
+            "respuesta": "La frustración aparece cuando algo importante para ti no está saliendo como esperabas. Podemos analizar juntos lo que lo está causando si tú quieres."
+        },
+        "siento que no valgo nada": {
+            "categoria": "autoestima baja",
+            "respuesta": "Eso que estás sintiendo es duro, Jota. Pero te aseguro que tienes valor, incluso en los días en que tú no lo veas. Estoy contigo, y podemos buscar razones para reconectar con ese valor."
+        }
+    }
+}

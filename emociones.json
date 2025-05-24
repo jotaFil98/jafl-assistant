@@ -1,0 +1,629 @@
+{
+    "Jota": [
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-12T10:22:05.334989"
+        },
+        {
+            "emocion": "positivo",
+            "frase": "pues me siento muy bien y tu ",
+            "fecha": "2025-05-12T10:22:13.577513"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que fecha es hoy",
+            "fecha": "2025-05-12T10:22:20.021444"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl dime la fecha actual",
+            "fecha": "2025-05-12T10:22:26.771861"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl dime la hora actual ",
+            "fecha": "2025-05-12T10:22:41.072520"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T11:59:39.067551"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T12:13:31.180050"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola",
+            "fecha": "2025-05-12T12:18:53.572407"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "hola jafl hoy estoy triste",
+            "fecha": "2025-05-12T12:19:01.957233"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "me siento triste",
+            "fecha": "2025-05-12T12:19:09.306929"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "estoy triste",
+            "fecha": "2025-05-12T12:19:13.476581"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T12:31:59.312550"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "me siento triste",
+            "fecha": "2025-05-12T12:32:03.879839"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "estoy triste",
+            "fecha": "2025-05-12T12:32:12.385825"
+        },
+        {
+            "emocion": "positivo",
+            "frase": "por que todavia no funcionas bien ?",
+            "fecha": "2025-05-12T12:32:21.306029"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T12:42:17.818583"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "me siento triste",
+            "fecha": "2025-05-12T12:42:22.925650"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "estoy triste",
+            "fecha": "2025-05-12T12:42:36.780015"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "me siento frustrado",
+            "fecha": "2025-05-12T12:42:43.148585"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T12:51:32.214621"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "me siento triste",
+            "fecha": "2025-05-12T12:51:36.370178"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "me siento vacio",
+            "fecha": "2025-05-12T12:51:43.171780"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "no tengo ganas",
+            "fecha": "2025-05-12T12:51:50.305457"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T12:55:18.831875"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "me siento triste",
+            "fecha": "2025-05-12T12:55:24.993751"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "me siento vac\u00edo",
+            "fecha": "2025-05-12T13:05:50.197017"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T13:13:41.041449"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "me siento vacio",
+            "fecha": "2025-05-12T13:13:45.163665"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T13:16:53.733308"
+        },
+        {
+            "emocion": "negativo",
+            "frase": "estoy triste",
+            "fecha": "2025-05-12T13:16:58.896550"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl ",
+            "fecha": "2025-05-12T22:37:48.136864"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "como estas hoy ",
+            "fecha": "2025-05-12T22:37:53.548386"
+        },
+        {
+            "emocion": "positivo",
+            "frase": "pues estoy bien gracias",
+            "fecha": "2025-05-12T22:38:04.991187"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "ahora estas bugueado ",
+            "fecha": "2025-05-12T22:38:12.910644"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "incoherente todo lo que dices jafl ",
+            "fecha": "2025-05-12T22:38:26.222640"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T22:49:31.181324"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T22:52:17.013475"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:01:28.750383"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que bueno que me ayudes, podrias decirme la hora",
+            "fecha": "2025-05-12T23:01:38.520606"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:10:43.736825"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "como estas",
+            "fecha": "2025-05-12T23:10:48.300939"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jajaja ahora no respondes",
+            "fecha": "2025-05-12T23:10:53.167534"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "okey, estas avanzando jafl? ",
+            "fecha": "2025-05-12T23:11:16.295678"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "quiero que sigas avanzando y evolucionando ",
+            "fecha": "2025-05-12T23:11:34.973701"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:16:35.769757"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "como estas hoy",
+            "fecha": "2025-05-12T23:16:39.915925"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "dios mio ",
+            "fecha": "2025-05-12T23:16:46.169961"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "pudieras decirme como puedo hacer que evoluciones",
+            "fecha": "2025-05-12T23:16:59.198865"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:33:04.024757"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "pues ayudame a ser mejor persona",
+            "fecha": "2025-05-12T23:33:12.054170"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "sigues dandome esas respuestas",
+            "fecha": "2025-05-12T23:33:23.895854"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "y ahora repitiendo y repitiendo la puta que te pario",
+            "fecha": "2025-05-12T23:33:35.861273"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:45:03.121215"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que bueno como estas hoy",
+            "fecha": "2025-05-12T23:45:09.889228"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "eso es nuevo",
+            "fecha": "2025-05-12T23:45:16.731818"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "es nuevo que respondas en blanco",
+            "fecha": "2025-05-12T23:45:38.332266"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "puedes buscarme algo por favor",
+            "fecha": "2025-05-12T23:45:46.987872"
+        },
+        {
+            "emocion": "feliz",
+            "frase": "okey otra vez en blanco genial",
+            "fecha": "2025-05-12T23:45:54.656304"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "print(f\"DEBUG: Respuesta del sistema - {respuesta}\")",
+            "fecha": "2025-05-12T23:46:52.742994"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-12T23:59:03.729452"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que tal el clima hoy",
+            "fecha": "2025-05-12T23:59:11.739989"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "no sirve de nada",
+            "fecha": "2025-05-12T23:59:19.866762"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que tal el clima en new york ?",
+            "fecha": "2025-05-12T23:59:34.877286"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:03:23.466441"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que es la inteligencia artificial",
+            "fecha": "2025-05-13T00:03:40.259956"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "no puede ser que no funciones aun",
+            "fecha": "2025-05-13T00:03:55.456598"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:05:26.866304"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que es la inteligencia artificial",
+            "fecha": "2025-05-13T00:05:38.308411"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "done esta rusia ?",
+            "fecha": "2025-05-13T00:05:52.956193"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que fecha es hoy ?",
+            "fecha": "2025-05-13T00:05:59.768874"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "cuantos huesos tiene el cuerpo humano?",
+            "fecha": "2025-05-13T00:06:16.283798"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "\u00bfQu\u00e9 es la inteligencia artificial?",
+            "fecha": "2025-05-13T00:06:47.178995"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:08:50.716750"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "donde esta ubicado new york",
+            "fecha": "2025-05-13T00:09:01.787515"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que es la inteligencia artificial",
+            "fecha": "2025-05-13T00:09:10.502440"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "\u00bfQu\u00e9 es la inteligencia artificial?",
+            "fecha": "2025-05-13T00:09:30.276826"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:10:55.114388"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "puedes buscarme donde esta ubicado new york",
+            "fecha": "2025-05-13T00:11:06.225628"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-13T00:13:06.294534"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "buscame donde se ubica alemania",
+            "fecha": "2025-05-13T00:13:22.256460"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl investiga consejos para hacer ejercicios",
+            "fecha": "2025-05-13T00:13:43.165461"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-13T00:15:44.414581"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "perfecto jafl, buscame el donde esta ubicado alemania",
+            "fecha": "2025-05-13T00:15:59.770653"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga donde esta ubicado alemania",
+            "fecha": "2025-05-13T00:16:14.354714"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga cual es la capital de alemania",
+            "fecha": "2025-05-13T00:16:50.114554"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-13T00:18:55.251825"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl buscame la capital de alemania",
+            "fecha": "2025-05-13T00:19:05.363565"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga la capital de alemania",
+            "fecha": "2025-05-13T00:19:14.346054"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-13T00:22:56.063612"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "cual es la capital de alemania",
+            "fecha": "2025-05-13T00:23:06.640081"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "la puta madre",
+            "fecha": "2025-05-13T00:23:11.197362"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "disculpa jafl mi enojo no es contigo es conmigo mismo",
+            "fecha": "2025-05-13T00:24:17.961937"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:26:43.752790"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "buscame la capital de alemania",
+            "fecha": "2025-05-13T00:26:51.684034"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "donde esta la capital de alemania>",
+            "fecha": "2025-05-13T00:27:01.020605"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga cual es la capital de alemania",
+            "fecha": "2025-05-13T00:27:15.070997"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga simon bolivar",
+            "fecha": "2025-05-13T00:27:32.512397"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl como estas",
+            "fecha": "2025-05-13T00:29:35.570571"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "buscame la capital de alemania",
+            "fecha": "2025-05-13T00:29:44.111059"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga la capital de venezuela",
+            "fecha": "2025-05-13T00:29:50.828887"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "bueno gracias jafl has avanzado bastante",
+            "fecha": "2025-05-13T00:30:20.450510"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:35:34.467085"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga la capital de alemania",
+            "fecha": "2025-05-13T00:35:53.503999"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga barcelona",
+            "fecha": "2025-05-13T00:36:07.823095"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:38:37.399330"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl como estas",
+            "fecha": "2025-05-13T00:38:42.157907"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga barcelona",
+            "fecha": "2025-05-13T00:39:03.013945"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga capital de berlin",
+            "fecha": "2025-05-13T00:39:30.399636"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T00:44:48.597289"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "capital de berlin",
+            "fecha": "2025-05-13T00:45:00.079937"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "buscame la capital de berlin",
+            "fecha": "2025-05-13T00:45:07.331612"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga la capital de berlin",
+            "fecha": "2025-05-13T00:45:14.443575"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga Alemania",
+            "fecha": "2025-05-13T00:45:34.336764"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "has aprendido algo jafl?",
+            "fecha": "2025-05-13T00:46:03.130135"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "\u00bfCu\u00e1l es la capital de Alemania?",
+            "fecha": "2025-05-13T00:47:46.322995"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "investiga \u00bfCu\u00e1l es la capital de Alemania?",
+            "fecha": "2025-05-13T00:47:57.988326"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola jafl",
+            "fecha": "2025-05-13T17:04:45.626292"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "",
+            "fecha": "2025-05-13T17:12:35.047814"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "",
+            "fecha": "2025-05-13T17:12:50.622378"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "",
+            "fecha": "2025-05-13T17:26:15.447636"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "que te parece eso",
+            "fecha": "2025-05-17T08:30:08.300620"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola Jafl",
+            "fecha": "2025-05-17T08:30:22.071451"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "hola",
+            "fecha": "2025-05-20T10:30:48.511158"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "jafl como te encuentras hoy?",
+            "fecha": "2025-05-20T10:31:04.275017"
+        },
+        {
+            "emocion": "neutral",
+            "frase": "salir",
+            "fecha": "2025-05-20T10:41:27.702503"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "ultimo_mensaje": "Spyder: Cristiano Ronaldo",
+    "fecha_ultimo_mensaje": "2025-05-23T13:26:31.880071",
+    "estado_emocional": "neutral",
+    "historial_emocional": [
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-22T13:28:18.835665"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-22T13:28:40.197056"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-22T13:29:43.474530"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-22T13:33:18.593677"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-23T13:24:25.339720"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-23T13:24:34.317461"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-23T13:25:14.979885"
+        },
+        {
+            "estado": "neutral",
+            "fecha": "2025-05-23T13:26:31.902160"
+        }
+    ],
+    "ultimo_tema": "general",
+    "reflexion": "Estoy procesando lo que Jota dijo, quizás hay algo importante en ello."
+}
